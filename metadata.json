@@ -1,0 +1,7 @@
+{
+  "name": "Sinergia: El Juego Familiar Definitivo",
+  "description": "Una aplicación de trivia intergeneracional diseñada para unir a la familia a través del conocimiento compartido, desde la cultura de los 80 hasta las tendencias de 2025.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
